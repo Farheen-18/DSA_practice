@@ -1,0 +1,11 @@
+  Q.1.1-1 
+Describe your own real-world example that requires sorting. Describe one that 
+requires finding the shortest distance between two points.
+
+  Soln.
+  Real world example that requires sorting - dividing students into clasroom based on their grades requires the teacher to sort of the students on the basis
+  of their grades. Therefore, grade is sorted in descending order and thus the student with maximum grades is assigned Rank 1 and so on...
+
+  One real world example that required finding shortest distance b/w 2 points:
+    Consider you only have fuel to drive for "x" km. Then, we try to find the shortest path distance-wise to sustain the fuel for the journey.
+    
