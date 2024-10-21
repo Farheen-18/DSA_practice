@@ -1,0 +1,14 @@
+Q. 1.1-3 
+Select a data structure that you have seen, and discuss its strengths and limitations.
+
+List
+
+Strengths:-
+  It utilizes only one variable to store any amount of data.
+  It is ordered, thus things are easy to access.
+  It can store one (eg. C)/any type of values (eg. Python).
+  It is mutable, thus can be updated.
+Weekness:-
+  It is mutable, thus cannot save info that can't afford to be changed.
+  It will waste lot of time and resources in updating it- if one deleted, each one has to move back; if added, first
+need to clear a space and then move everything forward.
