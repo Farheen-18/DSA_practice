@@ -1,0 +1,15 @@
+Q. 1.1-4 
+How are the shortest-path and traveling-salesperson problems given above similar? 
+How are they different? 
+
+Soln.:-
+Shortest-path v/s Travelling-salesperson problems
+
+Similarities:
+1. Both need to optimize on the shortest path possible for the journey.
+
+Dissimilarities: 
+1. In shortest path, only initial and final destinations were required -- "offline algorithm"
+2. In travelling-salesperson problem, the intermediate steps also matter -- max. intermediate 
+  steps + distance -- both matter together.
+  
