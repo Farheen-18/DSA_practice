@@ -1,0 +1,11 @@
+Q. 1.1-6 
+Describe a real-world problem in which sometimes the entire input is available 
+before you need to solve the problem, but other times the input is not entirely 
+available in advance and arrives over time.
+
+Real world situations where entire input is available before solving the problem:
+1. Planning for exam when entire syllabus is known.
+
+Real world situations where entire input is not known:
+1. Search recommendation results -- updates with every search to make better predictions.
+2. Advertisement recommendations
