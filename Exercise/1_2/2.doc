@@ -10,5 +10,18 @@ Soln.:
   8n (n-8lgn)<0
   n-8lgn < 0
   n<8lgn
+n/8 < logn
+2^(n/8) < n
 
-  [I am not sure if it is log base e or base 10 or base 2]
+n=8, 2<8 -- true
+n=16, 4<16
+n=24, 8<24
+n=32, 16 < 32
+n=40, 32 < 40
+n=48, 64 < 48 -- false
+n=44, 45.25 < 44 --- false
+n=43, 41.49 < 43
+
+Therefore, Insertion sort beats merge sort till n=43...!
+
+
